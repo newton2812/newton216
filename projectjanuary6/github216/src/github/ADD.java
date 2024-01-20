@@ -13,5 +13,15 @@ public class ADD {
 		sum=num1+num2;
 		System.out.println(sum);
 	}
+	void sub()
+	{
+		int num1=3;
+		int num2=4;
+		
+		int diff=0;
+		diff=num1-num2;
+		
+		System.out.println(diff);
+	}
 
 }
